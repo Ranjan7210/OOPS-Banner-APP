@@ -1,4 +1,3 @@
-package UC5;
 public class OOPSBannerApp {
   public static void main(String[] args) {
         // Inline initialization reduces code volume [cite: 544]
