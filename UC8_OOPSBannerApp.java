@@ -1,5 +1,5 @@
 import java.util.HashMap;
-public class OOPSBannerApp {
+public class UC8_OOPSBannerApp {
   public static void main(String[] args) {
           // Initialize the HashMap collection
           HashMap<Character, String[]> charMap = createCharacterMap();

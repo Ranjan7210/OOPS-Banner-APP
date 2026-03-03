@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class UC7_OOPSBannerApp {
   // Inner static class to encapsulate character-to-pattern mapping
     static class CharacterPatternMap {
         private Character character;
